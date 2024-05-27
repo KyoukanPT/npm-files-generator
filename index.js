@@ -14,7 +14,7 @@ inquirer
         const name = answers.name;
         const filepath = './message-text.txt'
 
-        var qr_svg = qr.image('image', { type: 'png' });
+        var qr_svg = qr.image(name, { type: 'png' });
         qr_svg.pipe(fs.createWriteStream('image.png'));
         console.log("The QR image has been created!");
         
