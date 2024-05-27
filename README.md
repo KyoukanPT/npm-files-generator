@@ -1,3 +1,5 @@
+**IN PROGRESS**
+
 <h2>QR Code Project</h2>
 
 <p>Instructions on how to download the source files and use the App: </p>
