@@ -19,4 +19,6 @@
 <h3>Project Folder Directory (Terminal)</h3>
 
 3 - npm install <br>
-4 - node app.js <br>
+4 - npm install --save inquirer (<a href="https://www.npmjs.com/package/inquirer">Inquirer</a>)
+5 - npm install qr-image (https://www.npmjs.com/package/qr-image)">QR Image</a>)
+6 - node app.js <br>
