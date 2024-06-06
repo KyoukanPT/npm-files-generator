@@ -17,10 +17,12 @@
 <h3>Project Folder Directory (Terminal)</h3>
 
 3 - npm install <br>
-4 - npm install --save inquirer >> (<a href="https://www.npmjs.com/package/inquirer">Inquirer</a>) <br>
-5 - npm install qr-image >> (<a href="https://www.npmjs.com/package/qr-image">QR Image</a>) <br>
+4 - npm install --save inquirer <a href="https://www.npmjs.com/package/inquirer">Inquirer</a> <br>
+5 - npm install qr-image <a href="https://www.npmjs.com/package/qr-image">QR Image</a> <br>
 6 - node app.js <br>
+
 <hr>
+
 <h3>How to use the App?</h3>
 <p>After following the above setup instructions, an input message will show up asking for a name. </p>
 <p>After submitting the name (or any value), the installed NPM Packages will generate a text file containing the value submitted by the user and a QR Code image with the same value. </p>
