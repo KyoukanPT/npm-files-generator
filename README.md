@@ -19,7 +19,7 @@
 3 - npm install <br>
 4 - npm install <a href="https://www.npmjs.com/package/inquirer">Inquirer</a> <br>
 5 - npm install <a href="https://www.npmjs.com/package/qr-image">QR Image</a> <br>
-6 - node app.js <br>
+6 - node index.js <br>
 
 <hr>
 
