@@ -24,6 +24,6 @@
 <hr>
 
 <h3>How to use the App?</h3>
-<p>After following the above setup instructions, an input message will show up asking for a name (in the terminal). </p>
-<p>After submitting the name (or any value), the installed NPM Packages will generate a text file containing the value submitted by the user and a QR Code image with the same value. </p>
-<p>The QR Code image can be uploaded and read in the following website >> <a href="https://scanqr.org/">QR Code reader</a>.</p>
+<p> - After following the above setup instructions, an input message will show up asking for a name (in the terminal). </p>
+<p> - After submitting the name (or any value), the installed NPM Packages will generate a text file containing the value submitted by the user and a QR Code image with the same value. </p>
+<p> - The QR Code image can be uploaded and read in the following website > <a href="https://scanqr.org/">QR Code reader</a>.</p>
