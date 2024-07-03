@@ -1,4 +1,4 @@
-<h2>NPM Files Generators</h2>
+<h2>NPM Files Generator</h2>
 
 <p>Instructions on how to download the source files and use the App: </p>
 
