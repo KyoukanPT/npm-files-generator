@@ -4,7 +4,7 @@
 
 <h3>Terminal (Chosen directory to clone the files - Recommended --> Desktop)</h3>
 
-1 - git clone https://github.com/KyoukanPT/qr-code-project.git
+1 - git clone https://github.com/KyoukanPT/npm-files-generator.git
 
 <hr>
 
